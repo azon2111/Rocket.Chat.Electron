@@ -18,7 +18,7 @@ const prepareApp = () => {
 	setupErrorHandling('main');
 
 	app.setAsDefaultProtocolClient('rocketchat');
-	app.setAppUserModelId('chat.rocket');
+	app.setAppUserModelId('chat.oliveuc');
 
 	const dirName = process.env.NODE_ENV === 'production' ? app.name : `${ app.name } (${ process.env.NODE_ENV })`;
 

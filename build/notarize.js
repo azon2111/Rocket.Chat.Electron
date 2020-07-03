@@ -15,7 +15,7 @@ exports.default = function notarizing(context) {
 		}, 15000);
 
 		notarize({
-			appBundleId: 'chat.rocket',
+			appBundleId: 'chat.oliveuc',
 			appPath: `${ appOutDir }/${ appName }.app`,
 			appleId: process.env.APPLEID,
 			appleIdPassword: process.env.APPLEIDPASS,

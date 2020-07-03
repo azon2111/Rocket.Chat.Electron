@@ -1,8 +1,8 @@
 {
   "name": "oliveruc",
-  "description": "Official OSX, Windows, and Linux Desktop Clients for Rocket.Chat",
+  "description": "Official OSX, Windows, and Linux Desktop Clients for OliveUC",
   "version": "2.17.9",
-  "author": "oliveruc Support <support@rocket.chat>",
+  "author": "OliveIT",
   "copyright": "© 2019, oliveruc.Chat",
   "homepage": "https://oliveruc.chat",
   "license": "MIT",

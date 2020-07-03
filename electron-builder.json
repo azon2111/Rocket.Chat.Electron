@@ -8,7 +8,7 @@
 		"build/icon.ico",
 		"servers.json"
 	],
-	"appId": "chat.rocket",
+	"appId": "chat.oliveuc",
 	"mac": {
 		"category": "public.app-category.productivity",
 		"target": [
@@ -19,7 +19,7 @@
 		],
 		"icon": "build/icon.icns",
 		"bundleVersion": "69",
-		"helperBundleId": "chat.rocket.electron.helper",
+		"helperBundleId": "chat.oliveuc.electron.helper",
 		"type": "distribution",
 		"artifactName": "oliveuc-${version}.${ext}",
 		"extendInfo": {
