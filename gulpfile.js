@@ -7,7 +7,7 @@ const execa = require('gulp-execa');
 const less = require('gulp-less');
 const toIco = require('to-ico');
 
-const NODE_ENV = process.env.NODE_ENV || 'development';
+const NODE_ENV = process.env.NODE_ENV || 'production';
 
 task('clean', () => removeAsync('app'));
 
